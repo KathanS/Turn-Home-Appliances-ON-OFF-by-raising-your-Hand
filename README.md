@@ -14,3 +14,5 @@ I divided my project in three modules. 1) Hand Side - which detects motion and s
 I have used following components: ESP8266-NodeMCU-WiFi board, HC-05 Bluetooth module, Arduino Uno, Tilt Sensor, Relay, Light Bulb, Breadboard. For Power Supply: Tablet using OTG cable for Arduino, Mi Power Bank using USB cable for Node MCU WiFi board.
 
 First, I made simple circuit which operates bulb using relay. Then I made circuit that gets signal from Bluetooth using HC-05. After that I made circuit that can detect the action of raising my hand using tilt sensor. Then I made circuit using Node MCU WiFi board that updates information provided by sensor on local host web server. Using all these, I made my final project.
+
+![Arduino&Display](Arduino&Display.jpg)
