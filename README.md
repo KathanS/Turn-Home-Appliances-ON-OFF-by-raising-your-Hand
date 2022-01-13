@@ -17,6 +17,8 @@ First, I made simple circuit which operates bulb using relay. Then I made circui
 
 ### Complete Description of Project in pdf format: [Turn Lights ON-OFF by raising your Hand, Kathan Sanghavi](https://drive.google.com/file/d/16UXEe-7ttPFDfy5jzpg0wnhFfegOPH4s/view?usp=sharing)
 
+### Demo Video: [Turn Lights ON-OFF by raising your Hand, December 2019](https://drive.google.com/file/d/1omby6rEsJDHmcwEY3u8TPkMbvM3eFm8e/view?usp=sharing)
+
 ## Arduino connected to a Display board
 
 ![Arduino&Display](Arduino&Display.jpg)
